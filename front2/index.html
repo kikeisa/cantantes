@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <title>Cantantes</title>
+</head>
+<body onload="getCantantes()">
+
+    <p class = "h1 center"> Cantantes CRUD</p>
+    <div class=" row container">
+      <div class="container">
+          <button type="button" onclick="clear()" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" >
+              Guardar Cantante
+            </button>
+        <table class="table">
+          <thead>
+            <tr>
+              <th scope="col">Acciones</th>
+              <th scope="col">#id</th>
+              <th scope="col">nombre</th>
+              <th scope="col">apellido</th>
+              <th scope="col">nacimiento</th>
+              <th scope="col">Biografia</th>
+            </tr>
+          </thead>
+          <tbody id="tableBody">
+  
+  
+          </tbody>
+        </table>
+      </div>
+      <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Guardar Cantante</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-body">
+                  <form>
+                      <input type="nombre"  style="" class="form-control" id="id" disabled>
+                      <div class="mb-3">
+                        <label for="exampleInputEmail1" class="form-label">nombre</label>
+                        <input type="nombre"  class="form-control" id="nombre" aria-describedby="emailHelp" required>
+                      </div>
+                      <div class="mb-3">
+                        <label for="apellido" class="form-label">apellido</label>
+                        <input type="apellido"  class="form-control" id="apellido" required>
+                      </div>
+                      <div class="mb-3">
+                          <label for="nacimiento" class="form-label">nacimiento</label>
+                          <input type="nacimiento"   class="form-control" id="nacimiento" required > 
+                        </div>
+                        <div class="mb-3">
+                          <label for="Biografia" class="form-label">Biografia</label>
+                          <input type="Biografia" class="form-control" id="Biografia" required>
+                        </div>
+                    </form>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal" id = "edit" onclick="editCantantes()">Editar</button>
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal" id = "save" onclick="SaveCantantes()">Guardar</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+    </div>
+
+
+
+    <script src="js/fontawesome/20ade174b1.js"></script>
+    <script src="js/bootstrap/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery/jquery-3.6.0.min.js"></script>
+    <script src="js/jquery/jquery-ui.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/swal/sweetalert2@11.js"></script>
+    <script src="../front2/js/main.js"></script>
+    <script></script>
+  </body>
+</html>

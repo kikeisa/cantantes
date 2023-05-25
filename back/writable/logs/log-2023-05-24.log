@@ -1,0 +1,1378 @@
+CRITICAL - 2023-05-24 15:19:35 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:19:50 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:20:17 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:21:10 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:21:28 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:21:29 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:21:54 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:22:31 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:23:36 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:23:36 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:23:37 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:23:37 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:25:48 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:26:08 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:27:07 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:27:23 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:27:27 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:27:57 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:27:58 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:29:19 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:31:05 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:32:12 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:33:15 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:34:14 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:36:07 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:38:05 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:38:11 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 52.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:39:33 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:41:21 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:41:26 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:41:29 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:41:36 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:43:50 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:45:52 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:46:57 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:46:58 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:49:31 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:49:31 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:49:43 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:52:50 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:53:23 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:53:24 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:53:33 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:54:49 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:55:19 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:55:20 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:55:22 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:55:22 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:55:34 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:55:35 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:55:54 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:55:59 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 15:57:28 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 16:00:22 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 33.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 16:00:53 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+ERROR - 2023-05-24 16:03:11 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\CantantesController.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\CantantesController->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CantantesController))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\CantantesController.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\CantantesController->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CantantesController))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:03:11 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\CantantesController.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CantantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CantantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+ERROR - 2023-05-24 16:03:28 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\CantantesController.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\CantantesController->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CantantesController))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\CantantesController.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\CantantesController->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CantantesController))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:03:28 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\CantantesController.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CantantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CantantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+ERROR - 2023-05-24 16:04:13 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\CantantesController.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\CantantesController->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CantantesController))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\CantantesController.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\CantantesController->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CantantesController))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:04:13 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\CantantesController.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CantantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CantantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+ERROR - 2023-05-24 16:06:06 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\CantantesController.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\CantantesController->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CantantesController))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\CantantesController.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\CantantesController->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CantantesController))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:06:06 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\CantantesController.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CantantesController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CantantesController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+ERROR - 2023-05-24 16:13:07 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:13:07 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 16:13:13 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+ERROR - 2023-05-24 16:13:32 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:13:32 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+ERROR - 2023-05-24 16:13:33 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:13:33 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 16:14:04 --> explode() expects parameter 2 to be string, array given
+in SYSTEMPATH\Router\Router.php on line 470.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'explode() expects parameter 2 to be string, array given', 'C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\system\\Router\\Router.php', 470, [...])
+ 2 SYSTEMPATH\Router\Router.php(470): explode('::', [...])
+ 3 SYSTEMPATH\Router\Router.php(182): CodeIgniter\Router\Router->checkRoutes('cantantes')
+ 4 SYSTEMPATH\CodeIgniter.php(815): CodeIgniter\Router\Router->handle('cantantes')
+ 5 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+ERROR - 2023-05-24 16:17:07 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:17:07 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 16:27:19 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+ERROR - 2023-05-24 16:28:25 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:28:25 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+ERROR - 2023-05-24 16:31:32 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:31:32 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+ERROR - 2023-05-24 16:31:33 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:31:33 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+ERROR - 2023-05-24 16:31:34 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:31:34 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+ERROR - 2023-05-24 16:35:30 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:35:30 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 16:35:37 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 16:35:37 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+ERROR - 2023-05-24 16:37:44 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:37:44 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 16:41:57 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+ERROR - 2023-05-24 16:41:57 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: NO) in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:41:57 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 16:44:18 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+ERROR - 2023-05-24 16:44:18 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'sayake'@'%' to database 'cantantes' in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'sayake', 'Kike7454##', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'%' to database 'cantantes' in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:44:18 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'%' to database 'cantantes'
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 16:44:20 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+ERROR - 2023-05-24 16:44:20 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'sayake'@'%' to database 'cantantes' in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'sayake', 'Kike7454##', 'cantantes', 3306, '', 0)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'%' to database 'cantantes' in C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\pruebaT\codeigniter4\back\app\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+#7 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+#8 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\pruebaT\codeigniter4\back\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\pruebaT\codeigniter4\back\system\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2023-05-24 16:44:20 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'%' to database 'cantantes'
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `cantantes`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Cantantes.php(14): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 16:44:53 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 17:02:33 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 17:04:26 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 17:10:20 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 17:11:01 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 17:11:17 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 17:11:42 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 17:12:02 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 17:58:17 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 17:58:17 --> Call to a member function find() on null
+in APPPATH\Controllers\Cantantes.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->show('300')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 17:58:20 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 17:58:21 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Cantantes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:04:31 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:04:31 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Cantantes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:04:47 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:04:47 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Cantantes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:06:57 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:06:57 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Cantantes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:07:24 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:07:24 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Cantantes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:08:15 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:08:15 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Cantantes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:08:16 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:08:16 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Cantantes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:10:14 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:10:14 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Cantantes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:10:34 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:10:35 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Cantantes.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:11:36 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:11:52 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:13:01 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:13:01 --> "cantante" is not a valid rule.
+in SYSTEMPATH\Controller.php on line 172.
+ 1 SYSTEMPATH\Controller.php(172): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('cantante')
+ 2 SYSTEMPATH\Controller.php(138): CodeIgniter\Controller->setValidator('cantante', [])
+ 3 APPPATH\Controllers\Cantantes.php(40): CodeIgniter\Controller->validate('cantante')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->create()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:16:35 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:16:35 --> "cantante" is not a valid rule.
+in SYSTEMPATH\Controller.php on line 172.
+ 1 SYSTEMPATH\Controller.php(172): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('cantante')
+ 2 SYSTEMPATH\Controller.php(138): CodeIgniter\Controller->setValidator('cantante', [])
+ 3 APPPATH\Controllers\Cantantes.php(40): CodeIgniter\Controller->validate('cantante')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->create()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:18:15 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:18:29 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:18:59 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:19:21 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:19:36 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:21:51 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:21:59 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:22:51 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:23:09 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:25:02 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:27:33 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:27:46 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:31:04 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:32:39 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:32:39 --> "cantante" is not a valid rule.
+in SYSTEMPATH\Controller.php on line 172.
+ 1 SYSTEMPATH\Controller.php(172): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('cantante')
+ 2 SYSTEMPATH\Controller.php(138): CodeIgniter\Controller->setValidator('cantante', [])
+ 3 APPPATH\Controllers\Cantantes.php(40): CodeIgniter\Controller->validate('cantante')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->create()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:33:05 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:33:05 --> "cantante" is not a valid rule.
+in SYSTEMPATH\Controller.php on line 172.
+ 1 SYSTEMPATH\Controller.php(172): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('cantante')
+ 2 SYSTEMPATH\Controller.php(138): CodeIgniter\Controller->setValidator('cantante', [])
+ 3 APPPATH\Controllers\Cantantes.php(40): CodeIgniter\Controller->validate('cantante')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->create()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:34:02 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:35:30 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:35:30 --> "cantante" is not a valid rule.
+in SYSTEMPATH\Controller.php on line 172.
+ 1 SYSTEMPATH\Controller.php(172): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('cantante')
+ 2 SYSTEMPATH\Controller.php(138): CodeIgniter\Controller->setValidator('cantante', [])
+ 3 APPPATH\Controllers\Cantantes.php(40): CodeIgniter\Controller->validate('cantante')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->create()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:39:03 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:39:24 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:41:26 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:42:54 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:42:54 --> "cantante" is not a valid rule.
+in SYSTEMPATH\Controller.php on line 172.
+ 1 SYSTEMPATH\Controller.php(172): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('cantante')
+ 2 SYSTEMPATH\Controller.php(138): CodeIgniter\Controller->setValidator('cantante', [])
+ 3 APPPATH\Controllers\Cantantes.php(40): CodeIgniter\Controller->validate('cantante')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->create()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:43:32 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:43:32 --> "cantante" is not a valid rule.
+in SYSTEMPATH\Controller.php on line 172.
+ 1 SYSTEMPATH\Controller.php(172): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('cantante')
+ 2 SYSTEMPATH\Controller.php(138): CodeIgniter\Controller->setValidator('cantante', [])
+ 3 APPPATH\Controllers\Cantantes.php(40): CodeIgniter\Controller->validate('cantante')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->create()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:44:01 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:44:27 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:51:46 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:52:10 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:53:16 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:53:16 --> Call to a member function update() on array
+in APPPATH\Controllers\Cantantes.php on line 64.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->update('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:53:59 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:57:13 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 18:57:14 --> Function name must be a string
+in APPPATH\Controllers\Cantantes.php on line 67.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Cantantes->update('1')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Cantantes))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pruebaT\\codeigniter4\\back\\public\\index.php')
+CRITICAL - 2023-05-24 18:58:34 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 19:00:36 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 19:01:33 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 19:01:42 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 19:10:43 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 19:16:09 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 20:55:29 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
+CRITICAL - 2023-05-24 20:55:35 --> Toolbar collector does not exist (CodeIgniter\Debug\Toolbar\Collectors\Cache). Please check $collectors in the app/Config/Toolbar.php file.
